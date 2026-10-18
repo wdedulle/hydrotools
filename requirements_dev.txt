@@ -16,9 +16,11 @@ mkdocs-material>=9.1.3
 mkdocs-pdf-export-plugin
 mkdocstrings==0.28.2
 mkdocstrings-crystal
+mkdocstrings-python
 mkdocstrings-python-legacy
 nbconvert
 nbformat
+pre-commit
 pygments
 pymdown-extensions
 pytest

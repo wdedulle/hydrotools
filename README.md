@@ -12,7 +12,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://wdedulle.github.io/hydrotools
-    
+
 
 ## Features
 

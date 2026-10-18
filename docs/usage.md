@@ -3,5 +3,5 @@
 To use hydrotools in a project:
 
 ```
-import hydrotools
+from hydrotools import hydrotools
 ```
