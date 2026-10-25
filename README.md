@@ -16,4 +16,8 @@
 
 ## Features
 
--   TODO
+-   Make measurements between 2 points
+-   Simple classification of images
+-   Bathymetric classification of images
+-   Extract features based on classification
+
