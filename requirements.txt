@@ -10,7 +10,7 @@ GDAL==3.13.3 ; sys_platform != "win32" and python_version >= "3.12"
 GDAL @ https://github.com/cgohlke/geospatial-wheels/releases/download/v2026.8.20/gdal-3.13.3-cp313-cp313-win_amd64.whl ; sys_platform == "win32" and platform_machine == "AMD64" and python_version == "3.13"
 GDAL @ https://github.com/cgohlke/geospatial-wheels/releases/download/v2026.8.20/gdal-3.13.3-cp314-cp314-win_amd64.whl ; sys_platform == "win32" and platform_machine == "AMD64" and python_version == "3.14"
 GDAL @ https://github.com/cgohlke/geospatial-wheels/releases/download/v2025.1.20/GDAL-3.10.1-cp311-cp311-win_amd64.whl ; sys_platform == "win32" and platform_machine == "AMD64" and python_version == "3.11"
-GDAL==3.10.1 ; sys_platform != "win32" and python_version < "3.12"
+GDAL ; sys_platform != "win32" and python_version < "3.12"
 numpy
 pngcanvas
 pyshp
