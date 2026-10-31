@@ -7,7 +7,7 @@
 [![image](https://pyup.io/repos/github/wdedulle/hydrotools/shield.svg)](https://pyup.io/repos/github/wdedulle/hydrotools)
 
 
-**Handy tools in geospatialanalysis for Hydrography**
+**Tools for geospatial analysis that can be used in Hydrography**
 
 
 -   Free software: MIT License
