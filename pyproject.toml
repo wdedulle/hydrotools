@@ -1,5 +1,5 @@
 [project]
-name = "hydrogeo"
+name = "hydrotools"
 version = "0.0.12"
 dynamic = [
     "dependencies",
