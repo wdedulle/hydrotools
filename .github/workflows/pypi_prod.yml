@@ -10,7 +10,7 @@ on:
 jobs:
     deploy:
         runs-on: ubuntu-latest
-        environment: pypi
+        environment: pypi_prod
         steps:
             - uses: actions/checkout@v4
             - name: Set up Python
